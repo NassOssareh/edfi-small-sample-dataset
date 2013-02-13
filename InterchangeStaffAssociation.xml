@@ -220,24 +220,6 @@
         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>7th Grade Math - Sec 2</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <ClassroomPosition>Teacher of Record</ClassroomPosition>
-  </TeacherSectionAssociation>
-  <TeacherSectionAssociation>
-    <TeacherReference>
-      <StaffIdentity>
-        <StaffUniqueStateId>linda.kim</StaffUniqueStateId>
-      </StaffIdentity>
-    </TeacherReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
 				<UniqueSectionCode>6th Grade English - Sec 4</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
@@ -251,12 +233,12 @@
     </TeacherReference>
     <SectionReference>
       <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>6th Grade Math - Sec 1</UniqueSectionCode>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <ClassroomPosition>Teacher of Record</ClassroomPosition>
