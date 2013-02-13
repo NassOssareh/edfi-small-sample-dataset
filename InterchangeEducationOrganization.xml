@@ -239,6 +239,8 @@
     </CompetencyLevels>
     <UniqueCourseId>1st-Grade-Homeroom-4</UniqueCourseId>
   </Course>
+  
+<!-- English -->  
   <Course>
     <CourseTitle>8th Grade English</CourseTitle>
     <NumberOfParts>1</NumberOfParts>
@@ -304,6 +306,74 @@
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>5th-Grade-English-5</UniqueCourseId>
+  </Course>
+  
+  <!-- Math -->  
+  <Course>
+    <CourseTitle>8th Grade Algebra</CourseTitle>
+    <NumberOfParts>1</NumberOfParts>
+    <CourseCode IdentificationSystem="CSSC course code">
+      <ID>8th Grade Algebra</ID>
+    </CourseCode>
+    <SubjectArea>Mathematics</SubjectArea>
+    <DateCourseAdopted>2000-01-01</DateCourseAdopted>
+    <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
+    <MinimumAvailableCredit>
+      <Credit>1</Credit>
+    </MinimumAvailableCredit>
+    <MaximumAvailableCredit>
+      <Credit>1</Credit>
+    </MaximumAvailableCredit>
+    <EducationOrganizationReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </EducationOrganizationReference>
+    <UniqueCourseId>8th-Grade-Algebra-5</UniqueCourseId>
+  </Course>
+  <Course>
+    <CourseTitle>6th Grade Math</CourseTitle>
+    <NumberOfParts>1</NumberOfParts>
+    <CourseCode IdentificationSystem="CSSC course code">
+      <ID>6th Grade English</ID>
+    </CourseCode>
+    <SubjectArea>Mathematics</SubjectArea>
+    <DateCourseAdopted>2000-01-01</DateCourseAdopted>
+    <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
+    <MinimumAvailableCredit>
+      <Credit>1</Credit>
+    </MinimumAvailableCredit>
+    <MaximumAvailableCredit>
+      <Credit>1</Credit>
+    </MaximumAvailableCredit>
+    <EducationOrganizationReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </EducationOrganizationReference>
+    <UniqueCourseId>6th-Grade-Math-6</UniqueCourseId>
+  </Course>
+  <Course>
+    <CourseTitle>5th Grade Math</CourseTitle>
+    <NumberOfParts>1</NumberOfParts>
+    <CourseCode IdentificationSystem="CSSC course code">
+      <ID>5th Grade Math</ID>
+    </CourseCode>
+    <SubjectArea>Mathematics</SubjectArea>
+    <DateCourseAdopted>2000-01-01</DateCourseAdopted>
+    <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
+    <MinimumAvailableCredit>
+      <Credit>1</Credit>
+    </MinimumAvailableCredit>
+    <MaximumAvailableCredit>
+      <Credit>1</Credit>
+    </MaximumAvailableCredit>
+    <EducationOrganizationReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </EducationOrganizationReference>
+    <UniqueCourseId>5th-Grade-Math-5</UniqueCourseId>
   </Course>
   <Course>
     <CourseTitle>American Literature</CourseTitle>
