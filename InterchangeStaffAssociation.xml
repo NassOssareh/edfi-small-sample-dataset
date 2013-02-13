@@ -100,7 +100,7 @@
       <ID>a</ID>
     </StaffIdentificationCode>
     <Name Verification='Life insurance policy'>
-      <PersonalTitlePrefix>Mrs</PersonalTitlePrefix>
+      <PersonalTitlePrefix>Ms</PersonalTitlePrefix>
       <FirstName>Linda</FirstName>
       <LastSurname>Kim</LastSurname>
     </Name>
@@ -126,9 +126,9 @@
     <Race>
       <RacialCategory>Black - African American</RacialCategory>
     </Race>
-    <HighestLevelOfEducationCompleted>No Degree</HighestLevelOfEducationCompleted>
-    <YearsOfPriorProfessionalExperience>0</YearsOfPriorProfessionalExperience>
-    <YearsOfPriorTeachingExperience>0</YearsOfPriorTeachingExperience>
+    <HighestLevelOfEducationCompleted>Bachelor's</HighestLevelOfEducationCompleted>
+    <YearsOfPriorProfessionalExperience>4</YearsOfPriorProfessionalExperience>
+    <YearsOfPriorTeachingExperience>5</YearsOfPriorTeachingExperience>
     <LoginId>a</LoginId>
     <TeacherUniqueStateId>a</TeacherUniqueStateId>
     <HighlyQualifiedTeacher>false</HighlyQualifiedTeacher>
@@ -146,15 +146,13 @@
     </SchoolReference>
     <ProgramAssignment>Regular Education</ProgramAssignment>
     <InstructionalGradeLevels>
+      <GradeLevel>Fifth grade</GradeLevel>
       <GradeLevel>Sixth grade</GradeLevel>
       <GradeLevel>Seventh grade</GradeLevel>
       <GradeLevel>Eighth grade</GradeLevel>
-      <GradeLevel>Ninth grade</GradeLevel>
     </InstructionalGradeLevels>
     <AcademicSubjects>
-      <AcademicSubject>Computer and Information Sciences</AcademicSubject>
       <AcademicSubject>English Language and Literature</AcademicSubject>
-      <AcademicSubject>Mathematics</AcademicSubject>
     </AcademicSubjects>
   </TeacherSchoolAssociation>
 	<StaffEducationOrgAssignmentAssociation>
@@ -239,6 +237,136 @@
           </EducationalOrgIdentity>
         </EducationalOrgReference>
         <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <ClassroomPosition>Teacher of Record</ClassroomPosition>
+  </TeacherSectionAssociation>
+  <!-- Steve Tiller -->
+  <Teacher>
+    <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+    <StaffIdentificationCode AssigningOrganizationCode='a' IdentificationSystem='Selective Service'>
+      <ID>a</ID>
+    </StaffIdentificationCode>
+    <Name Verification='Life insurance policy'>
+      <PersonalTitlePrefix>Mr</PersonalTitlePrefix>
+      <FirstName>Steve</FirstName>
+      <LastSurname>Tiller</LastSurname>
+    </Name>
+    <Sex>Male</Sex>
+    <BirthDate>1967-12-05</BirthDate>
+    <Address AddressType='Work'>
+      <StreetNumberName>101 Elm</StreetNumberName>
+      <ApartmentRoomSuiteNumber>7B</ApartmentRoomSuiteNumber>
+      <City>Brooklyn</City>
+      <StateAbbreviation>NY</StateAbbreviation>
+      <PostalCode>99999</PostalCode>
+      <BeginDate>1967-08-13</BeginDate>
+      <EndDate>1967-08-13</EndDate>
+    </Address>
+    <Telephone PrimaryTelephoneNumberIndicator='true' TelephoneNumberType='Fax'>
+      <TelephoneNumber>a</TelephoneNumber>
+    </Telephone>
+    <ElectronicMail EmailAddressType='Organization'>
+      <EmailAddress>steve@junk.com</EmailAddress>
+    </ElectronicMail>
+    <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
+    <OldEthnicity>Hispanic</OldEthnicity>
+    <Race>
+      <RacialCategory>White</RacialCategory>
+    </Race>
+    <HighestLevelOfEducationCompleted>Bachelor's</HighestLevelOfEducationCompleted>
+    <YearsOfPriorProfessionalExperience>5</YearsOfPriorProfessionalExperience>
+    <YearsOfPriorTeachingExperience>15</YearsOfPriorTeachingExperience>
+    <LoginId>a</LoginId>
+    <TeacherUniqueStateId>a</TeacherUniqueStateId>
+    <HighlyQualifiedTeacher>false</HighlyQualifiedTeacher>
+  </Teacher>
+  <TeacherSchoolAssociation>
+    <TeacherReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+      </StaffIdentity>
+    </TeacherReference>
+    <SchoolReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </SchoolReference>
+    <ProgramAssignment>Regular Education</ProgramAssignment>
+    <InstructionalGradeLevels>
+      <GradeLevel>Fifth grade</GradeLevel>
+      <GradeLevel>Sixth grade</GradeLevel>
+      <GradeLevel>Seventh grade</GradeLevel>
+      <GradeLevel>Eighth grade</GradeLevel>
+    </InstructionalGradeLevels>
+    <AcademicSubjects>
+      <AcademicSubject>Mathematics</AcademicSubject>
+    </AcademicSubjects>
+  </TeacherSchoolAssociation>
+  <StaffEducationOrgAssignmentAssociation>
+    <StaffReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+      </StaffIdentity>
+    </StaffReference>
+    <EducationOrganizationReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </EducationOrganizationReference>
+    <StaffClassification>Teacher</StaffClassification>
+    <BeginDate>2007-07-07</BeginDate>
+  </StaffEducationOrgAssignmentAssociation>
+  <TeacherSectionAssociation>
+    <TeacherReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+      </StaffIdentity>
+    </TeacherReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <ClassroomPosition>Teacher of Record</ClassroomPosition>
+  </TeacherSectionAssociation>
+  <TeacherSectionAssociation>
+    <TeacherReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+      </StaffIdentity>
+    </TeacherReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>5th-Grade-Math-5</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <ClassroomPosition>Teacher of Record</ClassroomPosition>
+  </TeacherSectionAssociation>
+  <TeacherSectionAssociation>
+    <TeacherReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
+      </StaffIdentity>
+    </TeacherReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>6th-Grade-Math-6</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <ClassroomPosition>Teacher of Record</ClassroomPosition>
