@@ -208,24 +208,24 @@
         <LocalCourseTitle>Choir A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Choir-A-47</UniqueCourseId>
@@ -237,24 +237,24 @@
         <LocalCourseTitle>ELA 8A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>ELA-8A-43</UniqueCourseId>
@@ -266,24 +266,24 @@
         <LocalCourseTitle>Phys-Ed 8A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Phys-Ed-8A-48</UniqueCourseId>
@@ -295,24 +295,24 @@
         <LocalCourseTitle>Pre-Algebra I</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Pre-Algebra-I-44</UniqueCourseId>
@@ -324,24 +324,24 @@
         <LocalCourseTitle>Science 8A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-8A-46</UniqueCourseId>
@@ -353,24 +353,24 @@
         <LocalCourseTitle>U.S. History I</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>U.S.-History-I-45</UniqueCourseId>
@@ -759,24 +759,24 @@
         <LocalCourseTitle>Drama I</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Drama-I-69</UniqueCourseId>
@@ -788,24 +788,24 @@
         <LocalCourseTitle>ELA 6A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>ELA-6A-65</UniqueCourseId>
@@ -817,24 +817,24 @@
         <LocalCourseTitle>Math 6A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Math-6A-66</UniqueCourseId>
@@ -846,24 +846,24 @@
         <LocalCourseTitle>Science 6A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-6A-68</UniqueCourseId>
@@ -875,24 +875,24 @@
         <LocalCourseTitle>Team Sports</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Team-Sports-70</UniqueCourseId>
@@ -904,24 +904,24 @@
         <LocalCourseTitle>World History I-G6</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>World-History-I-G6-67</UniqueCourseId>
@@ -1107,24 +1107,24 @@
         <LocalCourseTitle>7th Grade English</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>7th-Grade-English-9</UniqueCourseId>
@@ -1136,24 +1136,24 @@
         <LocalCourseTitle>7th Grade Math</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>7th-Grade-Math-39</UniqueCourseId>
@@ -1165,24 +1165,24 @@
         <LocalCourseTitle>Conditioning</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Conditioning-58</UniqueCourseId>
@@ -1194,24 +1194,24 @@
         <LocalCourseTitle>Math 7A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Math-7A-54</UniqueCourseId>
@@ -1223,24 +1223,24 @@
         <LocalCourseTitle>Science 7A</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-7A-56</UniqueCourseId>
@@ -1252,24 +1252,24 @@
         <LocalCourseTitle>Spanish I</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Spanish-I-57</UniqueCourseId>
@@ -1281,24 +1281,24 @@
         <LocalCourseTitle>State History I-G7</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>State-History-I-G7-55</UniqueCourseId>
@@ -1368,24 +1368,24 @@
         <LocalCourseTitle>8th Grade English</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>8th-Grade-English-5</UniqueCourseId>
@@ -1629,24 +1629,24 @@
         <LocalCourseTitle>Choir B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Choir-B-41</UniqueCourseId>
@@ -1658,24 +1658,24 @@
         <LocalCourseTitle>ELA 8B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>ELA-8B-35</UniqueCourseId>
@@ -1687,24 +1687,24 @@
         <LocalCourseTitle>Phys-Ed 8B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Phys-Ed-8B-42</UniqueCourseId>
@@ -1716,24 +1716,24 @@
         <LocalCourseTitle>Pre-Algebra II</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Pre-Algebra-II-36</UniqueCourseId>
@@ -1745,24 +1745,24 @@
         <LocalCourseTitle>Science 8B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-8B-40</UniqueCourseId>
@@ -1774,24 +1774,24 @@
         <LocalCourseTitle>U.S. History II</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>U.S.-History-II-37</UniqueCourseId>
@@ -2151,24 +2151,24 @@
         <LocalCourseTitle>6th Grade English</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>6th-Grade-English-6</UniqueCourseId>
@@ -2180,24 +2180,24 @@
         <LocalCourseTitle>6th Grade Math</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>6th-Grade-Math-38</UniqueCourseId>
@@ -2209,24 +2209,24 @@
         <LocalCourseTitle>7th Grade English</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>7th-Grade-English-9</UniqueCourseId>
@@ -2238,24 +2238,24 @@
         <LocalCourseTitle>Drama II</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Drama-II-63</UniqueCourseId>
@@ -2267,24 +2267,24 @@
         <LocalCourseTitle>ELA 6B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>ELA-6B-59</UniqueCourseId>
@@ -2296,24 +2296,24 @@
         <LocalCourseTitle>Math 6B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Math-6B-60</UniqueCourseId>
@@ -2325,24 +2325,24 @@
         <LocalCourseTitle>Nutrition</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Nutrition-64</UniqueCourseId>
@@ -2354,24 +2354,24 @@
         <LocalCourseTitle>Science 6B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-6B-62</UniqueCourseId>
@@ -2383,24 +2383,24 @@
         <LocalCourseTitle>World History II-G6</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>World-History-II-G6-61</UniqueCourseId>
@@ -2516,7 +2516,7 @@
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Nutrition-64</UniqueCourseId>
@@ -2586,24 +2586,24 @@
         <LocalCourseTitle>7th Grade Composition</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>7th-Grade-Composition-10</UniqueCourseId>
@@ -2615,24 +2615,24 @@
         <LocalCourseTitle>Jazz Band</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Jazz-Band-53</UniqueCourseId>
@@ -2644,24 +2644,24 @@
         <LocalCourseTitle>Math 7B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Math-7B-49</UniqueCourseId>
@@ -2673,24 +2673,24 @@
         <LocalCourseTitle>Science 7B</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Science-7B-51</UniqueCourseId>
@@ -2702,24 +2702,24 @@
         <LocalCourseTitle>Spanish II</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>Spanish-II-52</UniqueCourseId>
@@ -2731,24 +2731,24 @@
         <LocalCourseTitle>State History II-G7</LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
             <CourseIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>State-History-II-G7-50</UniqueCourseId>
@@ -2768,32 +2768,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -2894,32 +2894,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -2936,32 +2936,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -2978,32 +2978,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -3020,32 +3020,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -3062,32 +3062,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -3104,32 +3104,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4157,32 +4157,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4199,32 +4199,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4241,32 +4241,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4283,32 +4283,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4325,32 +4325,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4367,32 +4367,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4409,32 +4409,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4451,32 +4451,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4493,32 +4493,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4535,32 +4535,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4577,32 +4577,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4619,32 +4619,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2008 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4707,32 +4707,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4749,32 +4749,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4791,32 +4791,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4833,32 +4833,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4875,32 +4875,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4917,32 +4917,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -4959,32 +4959,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5001,32 +5001,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5043,32 +5043,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5085,32 +5085,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5127,32 +5127,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5169,32 +5169,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5211,32 +5211,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5253,32 +5253,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5295,32 +5295,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5337,32 +5337,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5379,32 +5379,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5421,32 +5421,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5463,32 +5463,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5505,32 +5505,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5547,32 +5547,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -5589,32 +5589,32 @@
                     <SessionIdentity>
                         <EducationalOrgReference>
                             <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                        <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
             </CourseOfferingIdentity>
         </CourseOfferingReference>
         <SchoolReference>
             <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
             </EducationalOrgIdentity>
         </SchoolReference>
         <SessionReference>
             <SessionIdentity>
                 <EducationalOrgReference>
                     <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+                <SessionName>Fall 2009 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>

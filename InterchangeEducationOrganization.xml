@@ -71,11 +71,11 @@
     </LocalEducationAgencyReference>
   </School>
   <School>
-    <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+    <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
     <EducationOrgIdentificationCode IdentificationSystem="School">
-      <ID>East Daybreak Junior High</ID>
+      <ID>East Daybreak Middle School</ID>
     </EducationOrgIdentificationCode>
-    <NameOfInstitution>East Daybreak Junior High</NameOfInstitution>
+    <NameOfInstitution>East Daybreak Middle School</NameOfInstitution>
     <OrganizationCategories>
       <OrganizationCategory>School</OrganizationCategory>
     </OrganizationCategories>
@@ -90,12 +90,13 @@
       <TelephoneNumber>(917)-555-3312</TelephoneNumber>
     </Telephone>
     <GradesOffered>
+      <GradeLevel>Fifth grade</GradeLevel>
       <GradeLevel>Sixth grade</GradeLevel>
       <GradeLevel>Seventh grade</GradeLevel>
       <GradeLevel>Eighth grade</GradeLevel>
     </GradesOffered>
     <SchoolCategories>
-      <SchoolCategory>Junior High School</SchoolCategory>
+      <SchoolCategory>Middle School</SchoolCategory>
     </SchoolCategories>
     <LocalEducationAgencyReference>
       <EducationalOrgIdentity>
@@ -255,7 +256,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>8th-Grade-English-5</UniqueCourseId>
@@ -277,7 +278,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>6th-Grade-English-6</UniqueCourseId>
@@ -346,7 +347,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>7th-Grade-English-9</UniqueCourseId>
@@ -368,7 +369,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>7th-Grade-Composition-10</UniqueCourseId>
@@ -919,7 +920,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>ELA-8B-35</UniqueCourseId>
@@ -941,7 +942,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Pre-Algebra-II-36</UniqueCourseId>
@@ -963,7 +964,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>U.S.-History-II-37</UniqueCourseId>
@@ -985,7 +986,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>6th-Grade-Math-38</UniqueCourseId>
@@ -1007,7 +1008,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>7th-Grade-Math-39</UniqueCourseId>
@@ -1029,7 +1030,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-8B-40</UniqueCourseId>
@@ -1051,7 +1052,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Choir-B-41</UniqueCourseId>
@@ -1073,7 +1074,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Phys-Ed-8B-42</UniqueCourseId>
@@ -1095,7 +1096,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>ELA-8A-43</UniqueCourseId>
@@ -1117,7 +1118,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Pre-Algebra-I-44</UniqueCourseId>
@@ -1139,7 +1140,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>U.S.-History-I-45</UniqueCourseId>
@@ -1161,7 +1162,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-8A-46</UniqueCourseId>
@@ -1183,7 +1184,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Choir-A-47</UniqueCourseId>
@@ -1205,7 +1206,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Phys-Ed-8A-48</UniqueCourseId>
@@ -1230,7 +1231,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Math-7B-49</UniqueCourseId>
@@ -1252,7 +1253,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>State-History-II-G7-50</UniqueCourseId>
@@ -1274,7 +1275,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-7B-51</UniqueCourseId>
@@ -1296,7 +1297,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Spanish-II-52</UniqueCourseId>
@@ -1318,7 +1319,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Jazz-Band-53</UniqueCourseId>
@@ -1340,7 +1341,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Math-7A-54</UniqueCourseId>
@@ -1362,7 +1363,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>State-History-I-G7-55</UniqueCourseId>
@@ -1384,7 +1385,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-7A-56</UniqueCourseId>
@@ -1406,7 +1407,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Spanish-I-57</UniqueCourseId>
@@ -1428,7 +1429,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Conditioning-58</UniqueCourseId>
@@ -1450,7 +1451,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>ELA-6B-59</UniqueCourseId>
@@ -1472,7 +1473,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Math-6B-60</UniqueCourseId>
@@ -1494,7 +1495,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>World-History-II-G6-61</UniqueCourseId>
@@ -1516,7 +1517,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-6B-62</UniqueCourseId>
@@ -1538,7 +1539,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Drama-II-63</UniqueCourseId>
@@ -1560,7 +1561,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Nutrition-64</UniqueCourseId>
@@ -1582,7 +1583,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>ELA-6A-65</UniqueCourseId>
@@ -1604,7 +1605,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Math-6A-66</UniqueCourseId>
@@ -1626,7 +1627,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>World-History-I-G6-67</UniqueCourseId>
@@ -1648,7 +1649,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Science-6A-68</UniqueCourseId>
@@ -1670,7 +1671,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Drama-I-69</UniqueCourseId>
@@ -1692,7 +1693,7 @@
     </MaximumAvailableCredit>
     <EducationOrganizationReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </EducationOrganizationReference>
     <UniqueCourseId>Team-Sports-70</UniqueCourseId>

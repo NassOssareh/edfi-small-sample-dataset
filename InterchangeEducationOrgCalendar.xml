@@ -5447,7 +5447,7 @@
 		<SchoolYear>2010-2011</SchoolYear>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<BeginDate>2010-10-04</BeginDate>
@@ -5809,7 +5809,7 @@
 		<SchoolYear>2010-2011</SchoolYear>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<BeginDate>2010-11-08</BeginDate>
@@ -6311,7 +6311,7 @@
 		<SchoolYear>2010-2011</SchoolYear>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<BeginDate>2011-01-10</BeginDate>
@@ -7749,7 +7749,7 @@
 		<SchoolYear>2009-2010</SchoolYear>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<BeginDate>2010-05-27</BeginDate>
@@ -9414,7 +9414,7 @@
 		<SchoolYear>2011-2012</SchoolYear>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<BeginDate>2012-01-23</BeginDate>
@@ -10686,7 +10686,7 @@
 		</CalendarDateReference>
 	</GradingPeriod>
 	<Session>
-		<SessionName>Fall 2010 East Daybreak Junior High</SessionName>
+		<SessionName>Fall 2010 East Daybreak Middle School</SessionName>
 		<SchoolYear>2010-2011</SchoolYear>
 		<Term>Fall Semester</Term>
 		<BeginDate>2010-09-06</BeginDate>
@@ -10694,7 +10694,7 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
@@ -10713,7 +10713,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10725,7 +10725,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10735,7 +10735,7 @@
 		</GradingPeriodReference>
 	</Session>
 	<Session>
-		<SessionName>Spring 2011 East Daybreak Junior High</SessionName>
+		<SessionName>Spring 2011 East Daybreak Middle School</SessionName>
 		<SchoolYear>2010-2011</SchoolYear>
 		<Term>Spring Semester</Term>
 		<BeginDate>2011-01-06</BeginDate>
@@ -10743,14 +10743,14 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10784,7 +10784,7 @@
 		</GradingPeriodReference>
 	</Session>
 	<Session>
-		<SessionName>Fall 2011 East Daybreak Junior High</SessionName>
+		<SessionName>Fall 2011 East Daybreak Middle School</SessionName>
 		<SchoolYear>2011-2012</SchoolYear>
 		<Term>Fall Semester</Term>
 		<BeginDate>2011-09-06</BeginDate>
@@ -10792,7 +10792,7 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
@@ -10860,7 +10860,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10872,7 +10872,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10909,7 +10909,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10921,7 +10921,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -10946,7 +10946,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11093,7 +11093,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11154,7 +11154,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11166,7 +11166,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11194,7 +11194,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11219,7 +11219,7 @@
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11229,7 +11229,7 @@
 		</GradingPeriodReference>
 	</Session>
 	<Session>
-		<SessionName>Fall 2008 East Daybreak Junior High</SessionName>
+		<SessionName>Fall 2008 East Daybreak Middle School</SessionName>
 		<SchoolYear>2008-2009</SchoolYear>
 		<Term>Fall Semester</Term>
 		<BeginDate>2008-09-06</BeginDate>
@@ -11237,7 +11237,7 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
@@ -11254,7 +11254,7 @@
 		</GradingPeriodReference>
 	</Session>
 	<Session>
-		<SessionName>Spring 2009 East Daybreak Junior High</SessionName>
+		<SessionName>Spring 2009 East Daybreak Middle School</SessionName>
 		<SchoolYear>2008-2009</SchoolYear>
 		<Term>Spring Semester</Term>
 		<BeginDate>2009-01-04</BeginDate>
@@ -11262,7 +11262,7 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
@@ -11279,10 +11279,10 @@
 		</GradingPeriodReference>
 	</Session>
 	<!-- sessions for Matt Sollars history. We've already got F2010, S2011, 
-		and F2011 for East Daybreak Junior High. These sessions represent his 6th 
+		and F2011 for East Daybreak Middle School. These sessions represent his 6th 
 		grade in middle school and grades 3-5 in elementary school. -->
 	<Session>
-		<SessionName>Fall 2009 East Daybreak Junior High</SessionName>
+		<SessionName>Fall 2009 East Daybreak Middle School</SessionName>
 		<SchoolYear>2009-2010</SchoolYear>
 		<Term>Fall Semester</Term>
 		<BeginDate>2009-09-06</BeginDate>
@@ -11290,14 +11290,14 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>
@@ -11307,7 +11307,7 @@
 		</GradingPeriodReference>
 	</Session>
 	<Session>
-		<SessionName>Spring 2010 East Daybreak Junior High</SessionName>
+		<SessionName>Spring 2010 East Daybreak Middle School</SessionName>
 		<SchoolYear>2009-2010</SchoolYear>
 		<Term>Spring Semester</Term>
 		<BeginDate>2010-01-04</BeginDate>
@@ -11315,14 +11315,14 @@
 		<TotalInstructionalDays>75</TotalInstructionalDays>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<GradingPeriodReference>
 			<GradingPeriodIdentity>
 				<EducationalOrgReference>
 					<EducationalOrgIdentity>
-						<StateOrganizationId>East Daybreak Junior High
+						<StateOrganizationId>East Daybreak Middle School
 						</StateOrganizationId>
 					</EducationalOrgIdentity>
 				</EducationalOrgReference>

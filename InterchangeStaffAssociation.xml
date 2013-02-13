@@ -141,7 +141,7 @@
     </TeacherReference>
     <SchoolReference>
       <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </SchoolReference>
     <ProgramAssignment>Regular Education</ProgramAssignment>
@@ -165,7 +165,7 @@
 		</StaffReference>
 		<EducationOrganizationReference>
 			<EducationalOrgIdentity>
-				<StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+				<StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 			</EducationalOrgIdentity>
 		</EducationOrganizationReference>
 		<StaffClassification>Teacher</StaffClassification>
@@ -181,7 +181,7 @@
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
 				<UniqueSectionCode>8th Grade English - Sec 6</UniqueSectionCode>
@@ -199,7 +199,7 @@
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
 				<UniqueSectionCode>7th Grade English - Sec 5</UniqueSectionCode>
@@ -217,7 +217,7 @@
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
 				<UniqueSectionCode>7th Grade Math - Sec 2</UniqueSectionCode>
@@ -235,7 +235,7 @@
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
 				<UniqueSectionCode>6th Grade English - Sec 4</UniqueSectionCode>
@@ -253,7 +253,7 @@
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>East Daybreak Junior High</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
 				<UniqueSectionCode>6th Grade Math - Sec 1</UniqueSectionCode>
