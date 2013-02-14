@@ -2148,35 +2148,7 @@
             </CourseIdentity>
         </CourseReference>
     </CourseOffering>
-    <CourseOffering>
-        <LocalCourseCode></LocalCourseCode>
-        <LocalCourseTitle></LocalCourseTitle>
-        <SchoolReference>
-            <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-            </EducationalOrgIdentity>
-        </SchoolReference>
-        <SessionReference>
-            <SessionIdentity>
-                <EducationalOrgReference>
-                    <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-                    </EducationalOrgIdentity>
-                </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
-            </SessionIdentity>
-        </SessionReference>
-        <CourseReference>
-            <CourseIdentity>
-                <EducationalOrgReference>
-                    <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-                    </EducationalOrgIdentity>
-                </EducationalOrgReference>
-                <UniqueCourseId>5th-Grade-English-5</UniqueCourseId>
-            </CourseIdentity>
-        </CourseReference>
-    </CourseOffering>
+
     <CourseOffering>
         <LocalCourseCode>6th Grade English</LocalCourseCode>
         <LocalCourseTitle>6th Grade English</LocalCourseTitle>
