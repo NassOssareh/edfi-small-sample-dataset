@@ -1674,7 +1674,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -1710,8 +1710,594 @@
       </SectionIdentity>
     </SectionReference>
   <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000030</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade English - Sec 6</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000031</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade English - Sec 6</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000032</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade English - Sec 6</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
 
-  <!-- historical data for linda.kim's 8th Grade English - Sec 6 class, Fall 2011 -->
+
+  <!-- steve.tiller's 8th Grade Math - Sec 1 (Fall 2011) class -->
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000000</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000001</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000002</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000003</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000004</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000005</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000006</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000007</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000008</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000009</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000010</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000011</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000012</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000013</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000014</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000015</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000016</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000017</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000018</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000019</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000020</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000021</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000022</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000023</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000024</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000025</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000026</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000027</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000030</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000031</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000032</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>8th Grade Algebra - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  
+
+
+
+  <!-- historical data for linda.kim's 8th Grade Algebra - Sec 1 class, Fall 2011 -->
   <!-- 7th grade English, Fall 2010 -->
   <StudentSectionAssociation>
     <StudentReference>
@@ -4082,7 +4668,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4101,7 +4687,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4120,7 +4706,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4139,7 +4725,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4158,7 +4744,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4177,7 +4763,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4196,7 +4782,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4215,7 +4801,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4234,7 +4820,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4253,7 +4839,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4272,7 +4858,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4291,7 +4877,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4310,7 +4896,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4329,7 +4915,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4348,7 +4934,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4367,7 +4953,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4386,7 +4972,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4405,7 +4991,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4424,7 +5010,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4443,7 +5029,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4462,7 +5048,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4481,7 +5067,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4500,7 +5086,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4519,7 +5105,7 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
@@ -4538,7 +5124,486 @@
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
+    <HomeroomIndicator>false</HomeroomIndicator>
   </StudentSectionAssociation>
+  
+  <!-- steve.tiller's 5th Grade Math - Sec 1 (Fall 2011) class -->
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000000</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000001</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000002</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000003</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000004</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000005</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000006</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000007</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000008</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000009</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000010</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000011</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000012</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000013</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000014</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000015</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000016</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000017</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000018</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000019</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000020</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000021</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000022</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000023</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>500000024</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SectionReference>
+      <SectionIdentity>
+			    <EducationalOrgReference>
+			    <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+				</EducationalOrgIdentity>
+				</EducationalOrgReference>
+				<UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <BeginDate>2011-09-01</BeginDate>
+    <HomeroomIndicator>false</HomeroomIndicator>
+  </StudentSectionAssociation>
+  
+  
   
 </InterchangeStudentEnrollment>
