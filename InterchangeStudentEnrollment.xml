@@ -6311,6 +6311,16 @@
 				<UniqueSectionCode>6th Grade English - Sec 4</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
   <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>

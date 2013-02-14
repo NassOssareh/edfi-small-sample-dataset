@@ -2149,8 +2149,8 @@
         </CourseReference>
     </CourseOffering>
     <CourseOffering>
-        <LocalCourseCode>5th Grade English</LocalCourseCode>
-        <LocalCourseTitle>5th Grade English</LocalCourseTitle>
+        <LocalCourseCode></LocalCourseCode>
+        <LocalCourseTitle></LocalCourseTitle>
         <SchoolReference>
             <EducationalOrgIdentity>
                 <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
@@ -2203,6 +2203,36 @@
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
                 <UniqueCourseId>6th-Grade-English-6</UniqueCourseId>
+            </CourseIdentity>
+        </CourseReference>
+    </CourseOffering>
+
+    <CourseOffering>
+        <LocalCourseCode>5th Grade English</LocalCourseCode>
+        <LocalCourseTitle>5th Grade English</LocalCourseTitle>
+        <SchoolReference>
+            <EducationalOrgIdentity>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+            </EducationalOrgIdentity>
+        </SchoolReference>
+        <SessionReference>
+            <SessionIdentity>
+                <EducationalOrgReference>
+                    <EducationalOrgIdentity>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+                    </EducationalOrgIdentity>
+                </EducationalOrgReference>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
+            </SessionIdentity>
+        </SessionReference>
+        <CourseReference>
+            <CourseIdentity>
+                <EducationalOrgReference>
+                    <EducationalOrgIdentity>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+                    </EducationalOrgIdentity>
+                </EducationalOrgReference>
+                <UniqueCourseId>5th-Grade-English-5</UniqueCourseId>
             </CourseIdentity>
         </CourseReference>
     </CourseOffering>
@@ -2979,14 +3009,14 @@
     </Section>
 
     <Section>
-        <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
+        <UniqueSectionCode> - Sec 1</UniqueSectionCode>
         <SequenceOfCourse>3</SequenceOfCourse>
         <EducationalEnvironment>Classroom</EducationalEnvironment>
         <MediumOfInstruction>Independent study</MediumOfInstruction>
         <PopulationServed>Regular Students</PopulationServed>
         <CourseOfferingReference>
             <CourseOfferingIdentity>
-                <LocalCourseCode>5th Grade English</LocalCourseCode>
+                <LocalCourseCode></LocalCourseCode>
                 <SessionReference>
                     <SessionIdentity>
                         <EducationalOrgReference>
@@ -2994,7 +3024,7 @@
                                 <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                             </EducationalOrgIdentity>
                         </EducationalOrgReference>
-                        <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
                     </SessionIdentity>
                 </SessionReference>
                 <EducationalOrgReference>
@@ -3016,7 +3046,7 @@
                         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
     </Section>
@@ -3190,6 +3220,50 @@
             </SessionIdentity>
         </SessionReference>
     </Section>
+
+    <Section>
+        <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
+        <SequenceOfCourse>3</SequenceOfCourse>
+        <EducationalEnvironment>Classroom</EducationalEnvironment>
+        <MediumOfInstruction>Independent study</MediumOfInstruction>
+        <PopulationServed>Regular Students</PopulationServed>
+        <CourseOfferingReference>
+            <CourseOfferingIdentity>
+                <LocalCourseCode>5th Grade English</LocalCourseCode>
+                <SessionReference>
+                    <SessionIdentity>
+                        <EducationalOrgReference>
+                            <EducationalOrgIdentity>
+                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+                            </EducationalOrgIdentity>
+                        </EducationalOrgReference>
+                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
+                    </SessionIdentity>
+                </SessionReference>
+                <EducationalOrgReference>
+                    <EducationalOrgIdentity>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+                    </EducationalOrgIdentity>
+                </EducationalOrgReference>
+            </CourseOfferingIdentity>
+        </CourseOfferingReference>
+        <SchoolReference>
+            <EducationalOrgIdentity>
+                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+            </EducationalOrgIdentity>
+        </SchoolReference>
+        <SessionReference>
+            <SessionIdentity>
+                <EducationalOrgReference>
+                    <EducationalOrgIdentity>
+                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+                    </EducationalOrgIdentity>
+                </EducationalOrgReference>
+                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
+            </SessionIdentity>
+        </SessionReference>
+    </Section>
+    
     <Section>
         <UniqueSectionCode>6th Grade English - Sec 4</UniqueSectionCode>
         <SequenceOfCourse>3</SequenceOfCourse>
