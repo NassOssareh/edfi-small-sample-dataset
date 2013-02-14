@@ -860,7 +860,7 @@
     <EntryGradeLevel>Seventh grade</EntryGradeLevel>
   </StudentSchoolAssociation>
 
-  <!-- student-school associations for the 5th graders (repurposes) -->
+  <!-- student-school associations for the 5th graders (repurposed) -->
   <StudentSchoolAssociation>
     <StudentReference>
       <StudentIdentity>
@@ -4064,21 +4064,21 @@
     </SectionReference>
   <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
 
-  <!-- rbraverman's "Mrs. Braverman's Homeroom #38" (Fall 2011, 1st grade) class -->
+  <!-- linda.kim's 5th Grade English - Sec 1 (Fall 2011) class -->
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000000</StudentUniqueStateId>
+        <StudentUniqueStateId>500000000</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4087,17 +4087,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000001</StudentUniqueStateId>
+        <StudentUniqueStateId>500000001</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4106,17 +4106,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000002</StudentUniqueStateId>
+        <StudentUniqueStateId>500000002</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4125,17 +4125,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000003</StudentUniqueStateId>
+        <StudentUniqueStateId>500000003</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4144,17 +4144,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000004</StudentUniqueStateId>
+        <StudentUniqueStateId>500000004</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4163,17 +4163,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000005</StudentUniqueStateId>
+        <StudentUniqueStateId>500000005</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4182,17 +4182,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000006</StudentUniqueStateId>
+        <StudentUniqueStateId>500000006</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4201,17 +4201,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000007</StudentUniqueStateId>
+        <StudentUniqueStateId>500000007</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4220,17 +4220,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000008</StudentUniqueStateId>
+        <StudentUniqueStateId>500000008</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4239,17 +4239,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000009</StudentUniqueStateId>
+        <StudentUniqueStateId>500000009</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4258,17 +4258,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000010</StudentUniqueStateId>
+        <StudentUniqueStateId>500000010</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4277,17 +4277,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000011</StudentUniqueStateId>
+        <StudentUniqueStateId>500000011</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4296,17 +4296,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000012</StudentUniqueStateId>
+        <StudentUniqueStateId>500000012</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4315,17 +4315,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000013</StudentUniqueStateId>
+        <StudentUniqueStateId>500000013</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4334,17 +4334,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000014</StudentUniqueStateId>
+        <StudentUniqueStateId>500000014</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4353,17 +4353,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000015</StudentUniqueStateId>
+        <StudentUniqueStateId>500000015</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4372,17 +4372,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000016</StudentUniqueStateId>
+        <StudentUniqueStateId>500000016</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4391,17 +4391,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000017</StudentUniqueStateId>
+        <StudentUniqueStateId>500000017</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4410,17 +4410,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000018</StudentUniqueStateId>
+        <StudentUniqueStateId>500000018</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4429,17 +4429,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000019</StudentUniqueStateId>
+        <StudentUniqueStateId>500000019</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4448,17 +4448,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000020</StudentUniqueStateId>
+        <StudentUniqueStateId>500000020</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4467,17 +4467,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000021</StudentUniqueStateId>
+        <StudentUniqueStateId>500000021</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4486,17 +4486,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000022</StudentUniqueStateId>
+        <StudentUniqueStateId>500000022</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4505,17 +4505,17 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000023</StudentUniqueStateId>
+        <StudentUniqueStateId>500000023</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
@@ -4524,497 +4524,21 @@
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
-        <StudentUniqueStateId>100000024</StudentUniqueStateId>
+        <StudentUniqueStateId>500000024</StudentUniqueStateId>
       </StudentIdentity>
     </StudentReference>
     <SectionReference>
       <SectionIdentity>
 			    <EducationalOrgReference>
 			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
 				</EducationalOrgIdentity>
 				</EducationalOrgReference>
-				<UniqueSectionCode>Mrs. Braverman's Homeroom #38</UniqueSectionCode>
+				<UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <BeginDate>2011-09-01</BeginDate>
     <HomeroomIndicator>true</HomeroomIndicator>
   </StudentSectionAssociation>
-  <!-- historical data for rbraverman's "Mrs. Braverman's Homeroom #38" class -->
-  <!-- Kindergarten, Fall 2010 -->
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000000</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000001</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000002</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000003</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000004</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000005</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000006</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000007</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000008</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000009</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000010</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000011</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000012</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000013</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000014</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000015</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000016</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000017</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>false</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000018</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000019</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000020</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000021</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000022</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000023</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
-  <StudentSectionAssociation>
-    <StudentReference>
-      <StudentIdentity>
-        <StudentUniqueStateId>100000024</StudentUniqueStateId>
-      </StudentIdentity>
-    </StudentReference>
-    <SectionReference>
-      <SectionIdentity>
-			    <EducationalOrgReference>
-			    <EducationalOrgIdentity>
-        <StateOrganizationId>South Daybreak Elementary</StateOrganizationId>
-				</EducationalOrgIdentity>
-				</EducationalOrgReference>
-				<UniqueSectionCode>Kindergarten Homeroom #38</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <BeginDate>2011-09-01</BeginDate>
-    <HomeroomIndicator>true</HomeroomIndicator>
-  </StudentSectionAssociation>
+  
 </InterchangeStudentEnrollment>
