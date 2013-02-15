@@ -3852,6 +3852,13 @@
 				<UniqueSectionCode>6th Grade English - Sec 4</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+  <StudentSectionAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000025</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
     <SectionReference>
       <SectionIdentity>
         <EducationalOrgReference>
@@ -3862,7 +3869,7 @@
         <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
-  <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
+    <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
@@ -3948,7 +3955,6 @@
       </SectionIdentity>
     </SectionReference>
   <BeginDate>2011-09-01</BeginDate></StudentSectionAssociation>
-
   <StudentSectionAssociation>
     <StudentReference>
       <StudentIdentity>
