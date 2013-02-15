@@ -2224,7 +2224,7 @@
                         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
+                <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
@@ -2284,7 +2284,7 @@
                         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
                     </EducationalOrgIdentity>
                 </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
+                <SessionName>Fall 2011 East Daybreak Middle School</SessionName>
             </SessionIdentity>
         </SessionReference>
         <CourseReference>
@@ -2979,50 +2979,6 @@
             </SessionIdentity>
         </SessionReference>
     </Section>
-
-    <Section>
-        <UniqueSectionCode> - Sec 1</UniqueSectionCode>
-        <SequenceOfCourse>3</SequenceOfCourse>
-        <EducationalEnvironment>Classroom</EducationalEnvironment>
-        <MediumOfInstruction>Independent study</MediumOfInstruction>
-        <PopulationServed>Regular Students</PopulationServed>
-        <CourseOfferingReference>
-            <CourseOfferingIdentity>
-                <LocalCourseCode></LocalCourseCode>
-                <SessionReference>
-                    <SessionIdentity>
-                        <EducationalOrgReference>
-                            <EducationalOrgIdentity>
-                                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-                            </EducationalOrgIdentity>
-                        </EducationalOrgReference>
-                        <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
-                    </SessionIdentity>
-                </SessionReference>
-                <EducationalOrgReference>
-                    <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-                    </EducationalOrgIdentity>
-                </EducationalOrgReference>
-            </CourseOfferingIdentity>
-        </CourseOfferingReference>
-        <SchoolReference>
-            <EducationalOrgIdentity>
-                <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-            </EducationalOrgIdentity>
-        </SchoolReference>
-        <SessionReference>
-            <SessionIdentity>
-                <EducationalOrgReference>
-                    <EducationalOrgIdentity>
-                        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-                    </EducationalOrgIdentity>
-                </EducationalOrgReference>
-                <SessionName>Spring 2010 East Daybreak Middle School</SessionName>
-            </SessionIdentity>
-        </SessionReference>
-    </Section>
-
 
     <Section>
         <UniqueSectionCode>10th Grade English - Sec 6f10</UniqueSectionCode>

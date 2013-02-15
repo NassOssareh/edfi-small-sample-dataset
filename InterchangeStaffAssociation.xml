@@ -348,29 +348,12 @@
             <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
           </EducationalOrgIdentity>
         </EducationalOrgReference>
-        <UniqueSectionCode>5th-Grade-Math-5</UniqueSectionCode>
+        <UniqueSectionCode>5th Grade Math - Sec 1</UniqueSectionCode>
       </SectionIdentity>
     </SectionReference>
     <ClassroomPosition>Teacher of Record</ClassroomPosition>
   </TeacherSectionAssociation>
-  <TeacherSectionAssociation>
-    <TeacherReference>
-      <StaffIdentity>
-        <StaffUniqueStateId>steve.tiller</StaffUniqueStateId>
-      </StaffIdentity>
-    </TeacherReference>
-    <SectionReference>
-      <SectionIdentity>
-        <EducationalOrgReference>
-          <EducationalOrgIdentity>
-            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
-          </EducationalOrgIdentity>
-        </EducationalOrgReference>
-        <UniqueSectionCode>6th-Grade-Math-6</UniqueSectionCode>
-      </SectionIdentity>
-    </SectionReference>
-    <ClassroomPosition>Teacher of Record</ClassroomPosition>
-  </TeacherSectionAssociation>
+
   <!-- Rebecca Braverman -->
   <Teacher>
     <StaffUniqueStateId>rbraverman</StaffUniqueStateId>
