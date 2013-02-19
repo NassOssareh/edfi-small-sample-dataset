@@ -290,7 +290,7 @@
     <StudentParentAssociation>
         <StudentReference>
             <StudentIdentity>
-                <StudentUniqueStateId>100000017</StudentUniqueStateId>
+                <StudentUniqueStateId>500000017</StudentUniqueStateId>
             </StudentIdentity>
         </StudentReference>
         <ParentReference>
@@ -306,7 +306,7 @@
     <StudentParentAssociation>
         <StudentReference>
             <StudentIdentity>
-                <StudentUniqueStateId>100000017</StudentUniqueStateId>
+                <StudentUniqueStateId>500000017</StudentUniqueStateId>
             </StudentIdentity>
         </StudentReference>
         <ParentReference>
