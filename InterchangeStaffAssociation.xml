@@ -373,6 +373,23 @@
     <ClassroomPosition>Teacher of Record</ClassroomPosition>
   </TeacherSectionAssociation>
   <TeacherSectionAssociation>
+    <TeacherReference>
+      <StaffIdentity>
+        <StaffUniqueStateId>linda.kim-token</StaffUniqueStateId>
+      </StaffIdentity>
+    </TeacherReference>
+    <SectionReference>
+      <SectionIdentity>
+        <EducationalOrgReference>
+          <EducationalOrgIdentity>
+            <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+          </EducationalOrgIdentity>
+        </EducationalOrgReference>
+        <UniqueSectionCode>5th Grade English - Sec 1</UniqueSectionCode>
+      </SectionIdentity>
+    </SectionReference>
+    <ClassroomPosition>Teacher of Record</ClassroomPosition>
+  </TeacherSectionAssociation>
   
   <!-- Steve Tiller -->
   <Teacher>
@@ -1063,7 +1080,7 @@
     <EndDate>2013-08-13</EndDate>
   </StaffEducationOrgAssignmentAssociation>
 
-  <!--Ms. Karen Garraway principal (Leader) South Daybreak Elementary School-->
+  <!--Ms. Karen Garraway principal (Leader) East Daybreak Middle School-->
   <Staff>
     <StaffUniqueStateId>karen.garraway</StaffUniqueStateId>
     <StaffIdentificationCode AssigningOrganizationCode='a' IdentificationSystem='Selective Service'>
@@ -1126,7 +1143,6 @@
     <EndDate>2013-08-13</EndDate>
   </StaffEducationOrgAssignmentAssociation>
   
-
     
     <!--Amy Kopel IT Support (IT Administrator) South Daybreak Elementary School-->
   <Staff>
