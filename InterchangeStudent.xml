@@ -33,7 +33,7 @@
             <EmailAddress>Matt.C@gmail.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-        	<EmailAddress>M.Corker@gmail.com</EmailAddress>
+        	<EmailAddress>mcorker@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
         	<EmailAddress>Matt.Corker@gmail.com</EmailAddress>
@@ -78,8 +78,8 @@
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>Rafaela.Coleson@yahoo.com</EmailAddress>
         </ElectronicMail>
-        <ElectronicMail EmailAddressType="Work">
-            <EmailAddress>rcoleson@gmail.com</EmailAddress>
+        <ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>rcoleson@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>rafaela_coleson@yahoo.com</EmailAddress>
@@ -104,8 +104,8 @@
         <Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>630-504-5490</TelephoneNumber>
         </Telephone>
-        <ElectronicMail EmailAddressType="Other">
-            <EmailAddress>ARchie_Forker@yahoo.com</EmailAddress>
+        <ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>aforker@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
         <Race/>
@@ -147,6 +147,9 @@
         <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>847-724-9091</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>ggayer@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
         <Race/>
         <EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -187,7 +190,7 @@
             <TelephoneNumber>219-608-1144</TelephoneNumber>
         </Telephone>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>mhaehn@yahoo.com</EmailAddress>
+            <EmailAddress>mhaehn@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>malcolm.haehn@gmail.com</EmailAddress>
@@ -221,8 +224,8 @@
         <Telephone TelephoneNumberType="Unlisted" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>224-167-3247</TelephoneNumber>
         </Telephone>
-        <ElectronicMail EmailAddressType="Other">
-            <EmailAddress>garry_kinsel@yahoo.com</EmailAddress>
+        <ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>gkinsel@yahoo.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>garry.kinsel@gmail.com</EmailAddress>
@@ -272,7 +275,7 @@
             <TelephoneNumber>262-073-2981</TelephoneNumber>
         </Telephone>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>P.Lynds@yahoo.com</EmailAddress>
+            <EmailAddress>plynds@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
@@ -315,7 +318,7 @@
             <EmailAddress>JMabee@gmail.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>J.Mabee@gmail.com</EmailAddress>
+            <EmailAddress>jmabee@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>Jayme_Mabee@gmail.com</EmailAddress>
@@ -360,6 +363,9 @@
         <Telephone TelephoneNumberType="Unlisted" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>847-333-9848</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>lmarney@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
         <Race/>
         <EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -401,7 +407,7 @@
             <TelephoneNumber>708-359-9620</TelephoneNumber>
         </Telephone>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>A.Nakken@yahoo.com</EmailAddress>
+            <EmailAddress>anakken@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>Alecia.Nakken@gmail.com</EmailAddress>
@@ -456,7 +462,7 @@
             <TelephoneNumber>574-277-5271</TelephoneNumber>
         </Telephone>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>D.Nemecek@gmail.com</EmailAddress>
+            <EmailAddress>dnemecek@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
@@ -487,8 +493,8 @@
         <Telephone TelephoneNumberType="Unlisted" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>708-432-9033</TelephoneNumber>
         </Telephone>
-        <ElectronicMail EmailAddressType="Other">
-            <EmailAddress>Dalia_Pingel@yahoo.com</EmailAddress>
+        <ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>dpingel@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
@@ -534,7 +540,7 @@
             <EmailAddress>Felipe_Rafalski@gmail.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>f.rafalski@gmail.com</EmailAddress>
+            <EmailAddress>frafalski@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>felipe.rafalski@yahoo.com</EmailAddress>
@@ -575,7 +581,7 @@
             <EmailAddress>lauretta.seip@yahoo.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>l.seip@yahoo.com</EmailAddress>
+            <EmailAddress>lseip@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
@@ -612,6 +618,9 @@
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>rudolph.sennett@gmail.com</EmailAddress>
         </ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>rsennett@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
         <EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -644,7 +653,7 @@
             <EmailAddress>besta_smay@yahoo.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>v.smay@yahoo.com</EmailAddress>
+            <EmailAddress>vsmay@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>vesta.smay@gmail.com</EmailAddress>
@@ -694,7 +703,7 @@
             <EmailAddress>smolka@yahoo.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>D.smolka@yahoo.com</EmailAddress>
+            <EmailAddress>dsmolka@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>domsmolka@gmail.com</EmailAddress>
@@ -741,6 +750,9 @@
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>ti.troung@gmail.com</EmailAddress>
         </ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>mtran@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Work">
             <EmailAddress>ti.troung@unicef.com</EmailAddress>
         </ElectronicMail>
@@ -776,7 +788,7 @@
             <EmailAddress>l.virga@gmail.com</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Organization">
-            <EmailAddress>lvirga@gmail.com</EmailAddress>
+            <EmailAddress>lvirga@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
         <Race/>
@@ -809,6 +821,9 @@
         </Telephone>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>Maria.werner@yahoo.com</EmailAddress>
+        </ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>mwerner@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>maria_werner@gmail.com</EmailAddress>
@@ -857,6 +872,9 @@
         </Telephone>
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>smouse.zhou@gmail.com</EmailAddress>
+        </ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>szhou@edms.district4529.org</EmailAddress>
         </ElectronicMail>
         <ElectronicMail EmailAddressType="Work">
             <EmailAddress>szhou@gmail.com</EmailAddress>
@@ -913,6 +931,9 @@
         <Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>224-666-4990</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>rzwolinski@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>rod_zwolinski@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -965,6 +986,9 @@
         <Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>224-666-4990</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>bsuzuki@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>bsuzuki@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -1017,6 +1041,9 @@
         <Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>224-666-4990</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>dshaw@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>dshaw@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -1069,6 +1096,9 @@
         <Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>224-666-4990</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>dduran@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>dduran@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -1112,6 +1142,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>312-608-2213</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>laldama@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1150,7 +1183,7 @@
 			<TelephoneNumber>815-049-6452</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>a.ausiello@yahoo.com</EmailAddress>
+			<EmailAddress>aausiello@edms.district4529.org</EmailAddress>
 		</ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
@@ -1186,6 +1219,9 @@
 		<Telephone TelephoneNumberType="Mobile" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>312-230-0970</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>dbavinon@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1233,6 +1269,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>331-747-1945</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>rbedoya@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Rudy_Bedoya@yahoo.com</EmailAddress>
 		</ElectronicMail>
@@ -1257,6 +1296,9 @@
 		<Telephone TelephoneNumberType="Other" PrimaryTelephoneNumberIndicator="false">
 			<TelephoneNumber>708-929-8507</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>mborc@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1296,6 +1338,9 @@
 		<ElectronicMail EmailAddressType="Work">
 			<EmailAddress>Dominic_Brisendine@yahoo.com</EmailAddress>
 		</ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>dbrisendine@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Dominic_Brisendine@yahoo.com</EmailAddress>
 		</ElectronicMail>
@@ -1339,6 +1384,9 @@
 		<ElectronicMail EmailAddressType="Home/Personal">
 			<EmailAddress>f.cianciolo@yahoo.com</EmailAddress>
 		</ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>fcianciolo@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1382,8 +1430,8 @@
 			<TelephoneNumber>219-975-8426</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>T.Cleaveland@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>tcleaveland@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1428,8 +1476,8 @@
 			<TelephoneNumber>219-828-9469</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>L.Consla@yahoo.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>lconsla@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Lyn_Consla@yahoo.com</EmailAddress>
 		</ElectronicMail>
@@ -1469,8 +1517,8 @@
 			
 		</Address>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>M.Costillo@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>mcostillo@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Malcolm_Costillo@gmail.com</EmailAddress>
 		</ElectronicMail>
@@ -1513,6 +1561,9 @@
 		<ElectronicMail EmailAddressType="Home/Personal">
 			<EmailAddress>Marco_Daughenbaugh@gmail.com</EmailAddress>
 		</ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>mdaughenbaugh@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1549,8 +1600,8 @@
 			
 		</Address>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>H.Franz@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>hfranz@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1579,6 +1630,9 @@
 			<NameOfCounty>Cook</NameOfCounty>
 			
 		</Address>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>ggiaquinto@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1613,6 +1667,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>708-746-9663</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>vherriman@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1650,8 +1707,8 @@
 			<TelephoneNumber>312-018-6309</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>L.Hose@yahoo.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>lhose@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Lettie_Hose@yahoo.com</EmailAddress>
 		</ElectronicMail>
@@ -1701,8 +1758,8 @@
 			<EmailAddress>Damon.Iskra@gmail.com</EmailAddress>
 		</ElectronicMail>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>D.Iskra@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>diskra@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1742,6 +1799,9 @@
 		<Telephone TelephoneNumberType="Emergency 1" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>219-343-1565</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>amaultsby@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -1769,8 +1829,8 @@
 			<EmailAddress>Merry_Mccanse@gmail.com</EmailAddress>
 		</ElectronicMail>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>M.Mccanse@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>mmccanse@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Home/Personal">
 			<EmailAddress>Merry.Mccanse@gmail.com</EmailAddress>
 		</ElectronicMail>
@@ -1813,6 +1873,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>312-791-6989</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>omerryweather@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>Zoe@gmail.com</EmailAddress>
 		</ElectronicMail>
@@ -1851,8 +1914,8 @@
 			<TelephoneNumber>262-251-1448</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>P.Muchow@gmail.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>pmuchow@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Work">
 			<EmailAddress>Preston_Muchow@gmail.com</EmailAddress>
 		</ElectronicMail>
@@ -1906,8 +1969,8 @@
 			<TelephoneNumber>847-239-1197</TelephoneNumber>
 		</Telephone>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>G.Rounsaville@yahoo.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>grounsaville@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Work">
 			<EmailAddress>Gerardo_Rounsaville@yahoo.com</EmailAddress>
 		</ElectronicMail>
@@ -1931,6 +1994,9 @@
         <Telephone TelephoneNumberType="Mobile" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>573-708-9257</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>krudesill@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>krudesill@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -1963,6 +2029,9 @@
         <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
             <TelephoneNumber>312-971-6989</TelephoneNumber>
         </Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>gsaltazor@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <ElectronicMail EmailAddressType="Other">
             <EmailAddress>g.saltazor@gmail.com</EmailAddress>
         </ElectronicMail>
@@ -1995,6 +2064,9 @@
 		<Telephone TelephoneNumberType="Mobile" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>262-875-4329</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>sscorzelli@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -2013,6 +2085,9 @@
 		<BirthData>
 			<BirthDate>1999-06-01</BirthDate>
 		</BirthData>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>osimmer@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -2035,6 +2110,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>309-555-2449</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>msollars@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<ElectronicMail EmailAddressType="Other">
 			<EmailAddress>m.sollars@gmail.com</EmailAddress>
 		</ElectronicMail>
@@ -2073,8 +2151,8 @@
 			<EmailAddress>Lashawn_Taite@yahoo.com</EmailAddress>
 		</ElectronicMail>
 		<ElectronicMail EmailAddressType="Organization">
-			<EmailAddress>L.Taite@yahoo.com</EmailAddress>
-		</ElectronicMail>
+            <EmailAddress>ltaite@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race/>
 		<EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -2114,6 +2192,9 @@
         <ElectronicMail EmailAddressType="Home/Personal">
             <EmailAddress>Felipe.Wierzbicki@yahoo.com</EmailAddress>
         </ElectronicMail>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>fwierzbicki@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
         <HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
         <Race/>
         <EconomicDisadvantaged>false</EconomicDisadvantaged>
@@ -2143,6 +2224,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>3124249004</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>spoplawski@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race>
 			<RacialCategory>White</RacialCategory>
@@ -2174,6 +2258,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>3229780035</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>mhernandez@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>true</HispanicLatinoEthnicity>
 		<Race>
 			<RacialCategory>White</RacialCategory>
@@ -2208,6 +2295,9 @@
 		<Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
 			<TelephoneNumber>3224399232</TelephoneNumber>
 		</Telephone>
+		<ElectronicMail EmailAddressType="Organization">
+            <EmailAddress>rabuassaf@edms.district4529.org</EmailAddress>
+        </ElectronicMail>
 		<HispanicLatinoEthnicity>false</HispanicLatinoEthnicity>
 		<Race>
 			<RacialCategory>White</RacialCategory>
