@@ -177,6 +177,106 @@
         </Telephone>
     </Parent>
 
+    <!-- Sofia Poplawski's Parents -->
+    <Parent>
+        <ParentUniqueStateId>830000001</ParentUniqueStateId>
+        <Name>
+            <FirstName>John</FirstName>
+            <LastSurname>Poplawski</LastSurname>
+        </Name>
+        <Sex>Male</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-555-0232</TelephoneNumber>
+        </Telephone>
+        <Telephone  TelephoneNumberType="Work">
+            <TelephoneNumber>312-555-3123</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>john.poplawski@johnsonlegal.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+    <Parent>
+        <ParentUniqueStateId>830000002</ParentUniqueStateId>
+        <Name>
+            <FirstName>Margaret</FirstName>
+            <LastSurname>Poplawski</LastSurname>
+        </Name>
+        <Sex>Female</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-555-0232</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>marpoplawski@gmail.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+
+    <!-- Rafael Abuassaf's Parents -->
+    <Parent>
+        <ParentUniqueStateId>831000000</ParentUniqueStateId>
+        <Name>
+            <FirstName>Jamaal</FirstName>
+            <LastSurname>Abuassaf</LastSurname>
+        </Name>
+        <Sex>Male</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-555-0232</TelephoneNumber>
+        </Telephone>
+        <Telephone  TelephoneNumberType="Work">
+            <TelephoneNumber>312-555-3123</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>john.abuassaf@uiuc.edu</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+    <Parent>
+        <ParentUniqueStateId>831000001</ParentUniqueStateId>
+        <Name>
+            <FirstName>Fahima</FirstName>
+            <LastSurname>Abuassaf</LastSurname>
+        </Name>
+        <Sex>Female</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>3125550232</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>fahab1967@gmail.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+
+    <!-- Maria Hernandez's Parents -->
+    <Parent>
+        <ParentUniqueStateId>832000000</ParentUniqueStateId>
+        <Name>
+            <FirstName>Manuel</FirstName>
+            <LastSurname>Hernandez</LastSurname>
+        </Name>
+        <Sex>Male</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-555-0232</TelephoneNumber>
+        </Telephone>
+        <Telephone  TelephoneNumberType="Work">
+            <TelephoneNumber>312-555-3123</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>manuel.hernandez@ableresearchlabs.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+    <Parent>
+        <ParentUniqueStateId>832000001</ParentUniqueStateId>
+        <Name>
+            <FirstName>Carmen</FirstName>
+            <LastSurname>Hernandez</LastSurname>
+        </Name>
+        <Sex>Male</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-555-0232</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>carmenh1967@firstdaybreak.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+
+
     <StudentParentAssociation>
         <StudentReference>
             <StudentIdentity>
@@ -319,5 +419,116 @@
         <EmergencyContactStatus>false</EmergencyContactStatus>
         <ContactRestrictions>NO CONTACT ALLOWED</ContactRestrictions>
     </StudentParentAssociation>
+
+
+    <!-- Sofia Poplawski's Parents -->
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>800000030</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>830000001</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Father</Relation>
+        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>1</ContactPriority>
+    </StudentParentAssociation>
+    <StudentParentAssociation>
+            <StudentReference>
+                <StudentIdentity>
+                    <StudentUniqueStateId>800000030</StudentUniqueStateId>
+                </StudentIdentity>
+            </StudentReference>
+            <ParentReference>
+                <ParentIdentity>
+                    <ParentUniqueStateId>830000002</ParentUniqueStateId>
+                </ParentIdentity>
+            </ParentReference>
+            <Relation>Mother</Relation>
+            <PrimaryContactStatus>true</PrimaryContactStatus>
+            <LivesWith>true</LivesWith>
+            <EmergencyContactStatus>true</EmergencyContactStatus>
+            <ContactPriority>2</ContactPriority>
+      </StudentParentAssociation>
+
+    
+    <!-- Rafael Abuassaf's Parents -->
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>800000031</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>831000000</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Father</Relation>
+        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>1</ContactPriority>
+    </StudentParentAssociation>
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>800000031</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>831000001</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Mother</Relation>
+        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>1</ContactPriority>
+    </StudentParentAssociation>
+    
+    <!-- Maria Hernandez's Parents -->
+        <StudentParentAssociation>
+            <StudentReference>
+                <StudentIdentity>
+                    <StudentUniqueStateId>800000032</StudentUniqueStateId>
+                </StudentIdentity>
+            </StudentReference>
+            <ParentReference>
+                <ParentIdentity>
+                    <ParentUniqueStateId>832000000</ParentUniqueStateId>
+                </ParentIdentity>
+            </ParentReference>
+            <Relation>Father</Relation>
+            <PrimaryContactStatus>true</PrimaryContactStatus>
+            <LivesWith>true</LivesWith>
+            <EmergencyContactStatus>true</EmergencyContactStatus>
+            <ContactPriority>1</ContactPriority>
+        </StudentParentAssociation>
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>800000032</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>832000001</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Father</Relation>
+        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>1</ContactPriority>
+    </StudentParentAssociation>
+
 
 </InterchangeStudentParent>
