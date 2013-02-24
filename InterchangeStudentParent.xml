@@ -258,7 +258,7 @@
             <TelephoneNumber>312-555-3123</TelephoneNumber>
         </Telephone>
         <ElectronicMail>
-            <EmailAddress>john.abuassaf@uiuc.edu</EmailAddress>
+            <EmailAddress>jamaal.abuassaf@uiuc.edu</EmailAddress>
         </ElectronicMail>
     </Parent>
     <Parent>
@@ -450,7 +450,7 @@
                 </ParentIdentity>
             </ParentReference>
             <Relation>Mother</Relation>
-            <PrimaryContactStatus>true</PrimaryContactStatus>
+            <PrimaryContactStatus>false</PrimaryContactStatus>
             <LivesWith>true</LivesWith>
             <EmergencyContactStatus>true</EmergencyContactStatus>
             <ContactPriority>2</ContactPriority>
@@ -469,7 +469,7 @@
             </ParentIdentity>
         </ParentReference>
         <Relation>Father</Relation>
-        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <PrimaryContactStatus>false</PrimaryContactStatus>
         <LivesWith>true</LivesWith>
         <EmergencyContactStatus>true</EmergencyContactStatus>
         <ContactPriority>1</ContactPriority>
@@ -485,7 +485,7 @@
                 <ParentUniqueStateId>831000001</ParentUniqueStateId>
             </ParentIdentity>
         </ParentReference>
-        <Relation>Father</Relation>
+        <Relation>Mother</Relation>
         <PrimaryContactStatus>true</PrimaryContactStatus>
         <LivesWith>true</LivesWith>
         <EmergencyContactStatus>true</EmergencyContactStatus>
@@ -523,7 +523,7 @@
             </ParentIdentity>
         </ParentReference>
         <Relation>Mother</Relation>
-        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <PrimaryContactStatus>false</PrimaryContactStatus>
         <LivesWith>true</LivesWith>
         <EmergencyContactStatus>true</EmergencyContactStatus>
         <ContactPriority>1</ContactPriority>
