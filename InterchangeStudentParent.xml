@@ -177,6 +177,40 @@
         </Telephone>
     </Parent>
 
+    <!-- Matthew Corker's Parents -->
+    <Parent>
+        <ParentUniqueStateId>510000000</ParentUniqueStateId>
+        <Name>
+            <FirstName>Frank</FirstName>
+            <LastSurname>Corker</LastSurname>
+        </Name>
+        <Sex>Male</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-255-0232</TelephoneNumber>
+        </Telephone>
+        <Telephone  TelephoneNumberType="Work">
+            <TelephoneNumber>312-355-3123</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>frank.corker@craftfoods.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+    <Parent>
+        <ParentUniqueStateId>510000001</ParentUniqueStateId>
+        <Name>
+            <FirstName>Kathryn</FirstName>
+            <LastSurname>Corker</LastSurname>
+        </Name>
+        <Sex>Female</Sex>		
+        <Telephone TelephoneNumberType="Home" PrimaryTelephoneNumberIndicator="true">
+            <TelephoneNumber>312-655-0232</TelephoneNumber>
+        </Telephone>
+        <ElectronicMail>
+            <EmailAddress>kathycork312@gmail.com</EmailAddress>
+        </ElectronicMail>
+    </Parent>
+    
+
     <!-- Sofia Poplawski's Parents -->
     <Parent>
         <ParentUniqueStateId>830000001</ParentUniqueStateId>
@@ -419,6 +453,43 @@
         <ContactRestrictions>NO CONTACT ALLOWED</ContactRestrictions>
     </StudentParentAssociation>
 
+
+    <!-- Matthew Corker's Parents -->
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>500000000</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>510000000</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Father</Relation>
+        <PrimaryContactStatus>true</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>1</ContactPriority>
+    </StudentParentAssociation>
+    <StudentParentAssociation>
+        <StudentReference>
+            <StudentIdentity>
+                <StudentUniqueStateId>500000000</StudentUniqueStateId>
+            </StudentIdentity>
+        </StudentReference>
+        <ParentReference>
+            <ParentIdentity>
+                <ParentUniqueStateId>510000001</ParentUniqueStateId>
+            </ParentIdentity>
+        </ParentReference>
+        <Relation>Mother</Relation>
+        <PrimaryContactStatus>false</PrimaryContactStatus>
+        <LivesWith>true</LivesWith>
+        <EmergencyContactStatus>true</EmergencyContactStatus>
+        <ContactPriority>2</ContactPriority>
+    </StudentParentAssociation>
+    
 
     <!-- Sofia Poplawski's Parents -->
     <StudentParentAssociation>

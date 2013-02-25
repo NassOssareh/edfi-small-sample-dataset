@@ -479,6 +479,50 @@
     <EntryDate>2011-09-01</EntryDate>
     <EntryGradeLevel>Eighth grade</EntryGradeLevel>
   </StudentSchoolAssociation>
+  <StudentSchoolAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000030</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SchoolReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </SchoolReference>
+    <EntryDate>2011-09-01</EntryDate>
+    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+  </StudentSchoolAssociation>
+  <StudentSchoolAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000031</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SchoolReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </SchoolReference>
+    <EntryDate>2011-09-01</EntryDate>
+    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+  </StudentSchoolAssociation>
+  <StudentSchoolAssociation>
+    <StudentReference>
+      <StudentIdentity>
+        <StudentUniqueStateId>800000032</StudentUniqueStateId>
+      </StudentIdentity>
+    </StudentReference>
+    <SchoolReference>
+      <EducationalOrgIdentity>
+        <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
+      </EducationalOrgIdentity>
+    </SchoolReference>
+    <EntryDate>2011-09-01</EntryDate>
+    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+  </StudentSchoolAssociation>
+  
+  
   <!-- last year's student-school associations for the 8th graders in middle school, when they were 7th graders at the same
     school -->
   <StudentSchoolAssociation>
@@ -871,8 +915,8 @@
         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </SchoolReference>
-    <EntryDate>2011-09-01</EntryDate>
-    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+    <EntryDate>2010-09-01</EntryDate>
+    <EntryGradeLevel>Seventh grade</EntryGradeLevel>
   </StudentSchoolAssociation>
   
   <StudentSchoolAssociation>
@@ -886,8 +930,8 @@
         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </SchoolReference>
-    <EntryDate>2011-09-01</EntryDate>
-    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+    <EntryDate>2010-09-01</EntryDate>
+    <EntryGradeLevel>Seventh grade</EntryGradeLevel>
   </StudentSchoolAssociation>
   
   <StudentSchoolAssociation>
@@ -901,8 +945,8 @@
         <StateOrganizationId>East Daybreak Middle School</StateOrganizationId>
       </EducationalOrgIdentity>
     </SchoolReference>
-    <EntryDate>2011-09-01</EntryDate>
-    <EntryGradeLevel>Eighth grade</EntryGradeLevel>
+    <EntryDate>2010-09-01</EntryDate>
+    <EntryGradeLevel>Seventh grade</EntryGradeLevel>
   </StudentSchoolAssociation>
 
   <!-- student-school associations for the 5th graders (repurposed) -->
