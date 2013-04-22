@@ -246,6 +246,9 @@
     <CourseCode IdentificationSystem="CSSC course code">
       <ID>8th Grade English</ID>
     </CourseCode>
+	<GradesOffered>
+      <GradeLevel>Eighth grade</GradeLevel>
+	</GradesOffered>  
     <SubjectArea>English Language and Literature</SubjectArea>
     <DateCourseAdopted>2000-01-01</DateCourseAdopted>
     <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
@@ -290,6 +293,9 @@
     <CourseCode IdentificationSystem="CSSC course code">
       <ID>5th Grade English</ID>
     </CourseCode>
+	<GradesOffered>
+      <GradeLevel>Fifth grade</GradeLevel>
+	</GradesOffered>
     <SubjectArea>English Language and Literature</SubjectArea>
     <DateCourseAdopted>2000-01-01</DateCourseAdopted>
     <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
@@ -314,6 +320,9 @@
     <CourseCode IdentificationSystem="CSSC course code">
       <ID>8th Grade Algebra</ID>
     </CourseCode>
+	<GradesOffered>
+      <GradeLevel>Eighth grade</GradeLevel>
+	</GradesOffered>
     <SubjectArea>Mathematics</SubjectArea>
     <DateCourseAdopted>2000-01-01</DateCourseAdopted>
     <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
@@ -358,6 +367,9 @@
     <CourseCode IdentificationSystem="CSSC course code">
       <ID>5th Grade Math</ID>
     </CourseCode>
+	<GradesOffered>
+      <GradeLevel>Fifth grade</GradeLevel>
+	</GradesOffered>
     <SubjectArea>Mathematics</SubjectArea>
     <DateCourseAdopted>2000-01-01</DateCourseAdopted>
     <HighSchoolCourseRequirement>false</HighSchoolCourseRequirement>
